@@ -1,2 +1,2 @@
 *.egg-info
-animation/__pycache__
+*/__pycache__
